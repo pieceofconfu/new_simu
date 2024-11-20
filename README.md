@@ -11,8 +11,14 @@ cd /catkin_ws1/src/balloon_simu_2024-2025/22_ball_simu ---> ./new_balloons_simu.
  rosrun camera_turret keyboard_reader.py
  
  sudo apt install ros-noetic-gazebo-ros-control
+ 
  sudo apt install ros-noetic-gazebo-ros-pkgs
+ 
  sudo apt install ros-noetic-joint*
+ 
  sudo apt install ros-noetic-joint
+ 
  sudo apt install ros-noetic-effort-controllers
+ 
  sudo apt install ros-noetic-position-controllers
+ 

@@ -22,3 +22,4 @@ cd /catkin_ws1/src/balloon_simu_2024-2025/22_ball_simu ---> ./new_balloons_simu.
  
  sudo apt install ros-noetic-position-controllers
  
+DAguirreAg-Camera-turret used in this repo as a turret

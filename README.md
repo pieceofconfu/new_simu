@@ -1,6 +1,9 @@
 I uploaded the catkin's src folder which is ready for the start. For your primary catkin folder's not crash, install this src folder to other catkin directory. make catkin_make. Install dependencies and it is ready to use (still have some problems to solve).
+
 roslaunch camera_turret new_simu.launch
+
 cd /catkin_ws1/src/balloon_simu_2024-2025/22_ball_simu ---> ./new_balloons_simu.sh
+
  if you want to control the camera of the turret, with joystick:
  
  rosrun camera_turret joy_to_command.py
@@ -22,4 +25,4 @@ cd /catkin_ws1/src/balloon_simu_2024-2025/22_ball_simu ---> ./new_balloons_simu.
  
  sudo apt install ros-noetic-position-controllers
  
-DAguirreAg-Camera-turret used in this repo as a turret
+## DAguirreAg-Camera-turret used in this repo as a turret ##
